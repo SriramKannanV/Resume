@@ -32,7 +32,7 @@ const Body = () => {
 
           <div>
             <h1 className='font-bold text-lg'>Jamal Mohamed College - Autonomous, Tiruchirappalli - <span className='font-normal italic'>B.Sc. Visual Communication</span></h1>
-            <p className='text-xs font-OpenSans text-slate-500 mb-2'>June 2023 - April 2026</p>
+            <p className='text-xs font-OpenSans text-slate-500 mb-4'>June 2023 - April 2026</p>
             <p className='font-semibold text-slate-600 font-OpenSans text-sm'>Strong academic foundation with focus on media and design. Exposure to hands-on projects, film-making and photography.</p>
           </div>
         </div>
