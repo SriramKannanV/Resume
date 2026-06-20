@@ -17,8 +17,8 @@ const HeaderSection = () => {
             {/* <p className='flex gap-2 items-center text-sm font-semibold'>+91 80721 58192</p> */}
             <p className='text-sm font-semibold'>sriramkannanv@gmail.com</p>
 
-            <div className='flex gap-4'>
-              <p className='cursor-pointer font-semibold hover:text-blue-600 transition-all'><a className='flex items-center gap-0.5' href='https://www.linkedin.com/in/sriram-kannan-v-11jan2005/' target='_blank'><img className='h-5 w-5' src="/LinkedIn-Icon.png" alt="linkedinIcon" />LinkedIn</a></p>
+            <div className='flex gap-4 justify-center'>
+              {/* <p className='cursor-pointer font-semibold hover:text-blue-600 transition-all'><a className='flex items-center gap-0.5' href='https://www.linkedin.com/in/sriram-kannan-v-11jan2005/' target='_blank'><img className='h-5 w-5' src="/LinkedIn-Icon.png" alt="linkedinIcon" />LinkedIn</a></p> */}
               <p className='cursor-pointer font-semibold hover:text-blue-600 transition-all'><a className='flex items-center gap-0.5' href='https://github.com/SriramKannanV' target='_blank'><img className='h-5 w-5' src="/GitHub-Icon.png" alt="gitHubIcon" />GitHub</a></p>
               <p className='cursor-pointer font-semibold hover:text-blue-600 transition-all'><a className='flex items-center gap-1' href='https://sriramkannanportfolio.netlify.app/' target='_blank'><img className='h-5 w-5' src="/Portfolio-Icon.png" alt="portfolioIcon" />Portfolio</a></p>
             </div>

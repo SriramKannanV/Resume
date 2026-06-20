@@ -6,6 +6,15 @@ const Body = () => {
       
       <div className='md:col-span-3'>
 
+        {/* About Me Section */}
+        <div className='mb-8'>
+          <h1 className='font-OpenSans text-blue-600 font-bold text-lg mb-4'>ABOUT ME</h1>
+          <p className='font-semibold text-slate-600 font-OpenSans text-sm'>I’m a Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js) and modern JavaScript. I build 
+            responsive, high-performance web applications by bridging clean, intuitive user interfaces with robust, scalable back-end 
+            architectures. I thrive on solving complex technical challenges, from optimizing database queries to integrating RESTful APIs—to 
+            deliver secure, end-to-end solutions that drive business value and create seamless user experiences.</p>
+        </div>
+
         {/* Experience Section */}
         <div className='mb-8'>
 
